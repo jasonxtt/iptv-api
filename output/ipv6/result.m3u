@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/jasonxtt/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-01-20 18:49:08
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-01-21 06:39:54
 http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="📺央视频道",CCTV1
 http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
@@ -300,7 +300,7 @@ https://jzb.wwkejishe.top/?id=592
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="CCTV14.png" group-title="📺央视频道",CCTV14
 https://zby.130519.xyz/PLTV/11/224/3221225738/index.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="CCTV14.png" group-title="📺央视频道",CCTV14
-https://zby.130519.xyz/PLTV/11/224/3221226150/index.m3u8
+https://event.pull.hebtv.com/jishi/cp2.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="CCTV15.png" group-title="📺央视频道",CCTV15
 http://api.kkitv.itv888.cn:8080/hls/hcwu4ianhgw/index.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="CCTV15.png" group-title="📺央视频道",CCTV15
@@ -728,7 +728,7 @@ https://migu.188766.xyz/?migutoken=278a72ab12aa710702dcbfac37644efb&id=%E4%B8%9C
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="东方卫视.png" group-title="📡卫视频道",东方卫视
 https://zby.130519.xyz/PLTV/11/224/3221225725/index.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="东方卫视.png" group-title="📡卫视频道",东方卫视
-https://zby.130519.xyz/PLTV/11/224/3221226106/index.m3u8
+https://migu.188766.xyz/?migutoken=d30a6db07f9a401217557c7884f1897e&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&type=yy
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="东南卫视.png" group-title="📡卫视频道",东南卫视
 http://api.kkitv.itv888.cn:8080/hls/jjt15bvbl7a/index.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="东南卫视.png" group-title="📡卫视频道",东南卫视
@@ -888,7 +888,7 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="吉林卫视.png" group-title="📡卫视频道",吉林卫视
 https://zby.130519.xyz/PLTV/11/224/3221226149/index.m3u8
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="吉林卫视.png" group-title="📡卫视频道",吉林卫视
-https://zby.130519.xyz/PLTV/11/224/3221226082/index.m3u8
+https://migu.188766.xyz/?migutoken=72de2bce525ce45747ebc9b62f6622c1&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="江苏卫视.png" group-title="📡卫视频道",江苏卫视
 http://api.kkitv.itv888.cn:8080/hls/g1upm1u239/index.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="江苏卫视.png" group-title="📡卫视频道",江苏卫视
@@ -1206,9 +1206,9 @@ https://shyd.695847.xyz/cms001/ch00000090990000001223/index.m3u8?IASHttpSessionI
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="云南卫视.png" group-title="📡卫视频道",云南卫视
 https://zby.130519.xyz/PLTV/11/224/3221226109/index.m3u8
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="云南卫视.png" group-title="📡卫视频道",云南卫视
-https://zby.130519.xyz/PLTV/11/224/3221226151/index.m3u8
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="云南卫视.png" group-title="📡卫视频道",云南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="云南卫视.png" group-title="📡卫视频道",云南卫视
+https://live.metshop.top/bestv.php?id=ynwshd8m/8000000
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="大湾区卫视.png" group-title="📡卫视频道",大湾区卫视
 http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010108
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="大湾区卫视.png" group-title="📡卫视频道",大湾区卫视
@@ -1619,6 +1619,8 @@ https://stream1.freetv.fun/6e51cfdfdd9988358bd19ac505badd794b005798348da2715479b
 https://stream1.freetv.fun/df53d054294bb3499e8c5897908dd1e7a190e2505b2f45abd837a8bc405771fb.m3u8
 #EXTINF:-1 tvg-name="ViuTVsix" tvg-logo="ViuTVsix.png" group-title="🇭🇰香港频道",ViuTVsix
 https://stream1.freetv.fun/732f193d67c8884d4ea74fab208403ff6495f2298e32f33ffbb019c1171ac507.ctv
+#EXTINF:-1 tvg-name="ViuTVsix" tvg-logo="ViuTVsix.png" group-title="🇭🇰香港频道",ViuTVsix
+https://stream1.freetv.fun/1a7fde3e70bcb4a1190775d117fd0b40eb3beb97588b4db2afffb8d819b3cdec.ctv
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="凤凰中文.png" group-title="🇭🇰香港频道",凤凰中文
 https://cdn6.101.qzz.io/163189/fhzw
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="凤凰中文.png" group-title="🇭🇰香港频道",凤凰中文
@@ -1765,6 +1767,8 @@ https://stream1.freetv.fun/d96ca80f2e6d7eb1a1737aaf17284caded271210e4432dfb4378a
 https://stream1.freetv.fun/ffa3a8fc52b4834c300b3587a667310b5eb8a46d000498709791be4bd1799514.m3u8
 #EXTINF:-1 tvg-name="台视新闻台" tvg-logo="台视新闻台.png" group-title="🇹🇼台湾频道",台视新闻台
 https://stream1.freetv.fun/9e87c84976d8ad7ce1dac1ba154da29c85371dffd4a6c00a3dfde2bf1fed5735.m3u8
+#EXTINF:-1 tvg-name="台视新闻台" tvg-logo="台视新闻台.png" group-title="🇹🇼台湾频道",台视新闻台
+https://stream1.freetv.fun/6d45c852234adf9247cfc6eb9b1682de0defb8f84183c6dcf6a39bb24c07af32.ctv
 #EXTINF:-1 tvg-name="中视" tvg-logo="中视.png" group-title="🇹🇼台湾频道",中视
 https://stream1.freetv.fun/8d0cbde8b78c43a3d875e0b3db9d5de9d21562885887975c0a889dfb454c7cc8.m3u8
 #EXTINF:-1 tvg-name="中视" tvg-logo="中视.png" group-title="🇹🇼台湾频道",中视
@@ -1803,6 +1807,8 @@ https://stream1.freetv.fun/c79385614a72377596e59d38846782830caeb39466f5f6af69217
 https://stream1.freetv.fun/b73947bff15ede055a3d69121912d79a38cde7937e834276ed9e69804a6a0fb3.m3u8
 #EXTINF:-1 tvg-name="民视新闻台" tvg-logo="民视新闻台.png" group-title="🇹🇼台湾频道",民视新闻台
 https://stream1.freetv.fun/33ae9aa2523492a0deb1bebba74b646b746cf674d50b753e7c4c06305d3fe40b.m3u8
+#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="民视新闻台.png" group-title="🇹🇼台湾频道",民视新闻台
+https://stream1.freetv.fun/a6dd48cff68c1da6ae33d7a2d962ab66d11a3791c0f133b0cd3bbbf99ea8b3c8.ctv
 #EXTINF:-1 tvg-name="民视第一台" tvg-logo="民视第一台.png" group-title="🇹🇼台湾频道",民视第一台
 https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
 #EXTINF:-1 tvg-name="民视第一台" tvg-logo="民视第一台.png" group-title="🇹🇼台湾频道",民视第一台
@@ -1849,6 +1855,8 @@ https://stream1.freetv.fun/c68677112701493a08636bd7bb348642d26a202643d19bdfd87f6
 https://stream1.freetv.fun/san-li-tai-wan-1.ctv
 #EXTINF:-1 tvg-name="三立台湾台" tvg-logo="三立台湾台.png" group-title="🇹🇼台湾频道",三立台湾台
 https://stream1.freetv.fun/945b62a11c90469ac374aa5fad47364339e509f9d53b0768e2dc5535207edea6.ctv
+#EXTINF:-1 tvg-name="三立台湾台" tvg-logo="三立台湾台.png" group-title="🇹🇼台湾频道",三立台湾台
+https://stream1.freetv.fun/5b8d8dd98a4c4142a48cdc5a97519fcd583cecccb08f384d48682bffa263530d.ctv
 #EXTINF:-1 tvg-name="三立新闻台" tvg-logo="三立新闻台.png" group-title="🇹🇼台湾频道",三立新闻台
 https://stream1.freetv.fun/san-li-xin-wen-4.m3u8
 #EXTINF:-1 tvg-name="三立新闻台" tvg-logo="三立新闻台.png" group-title="🇹🇼台湾频道",三立新闻台
@@ -1879,6 +1887,8 @@ https://stream1.freetv.fun/343f58b82363da797640f508449f5ece8acb9f7352ce4c3d51f60
 https://hls-gateway.vpstv.net/streams/476987.m3u8
 #EXTINF:-1 tvg-name="东森综合台" tvg-logo="东森综合台.png" group-title="🇹🇼台湾频道",东森综合台
 https://stream1.freetv.fun/a34f63cf23e4e386f7b9304a7bf75f568c4886d6ccaec81cee72fd1156ad2e00.ctv
+#EXTINF:-1 tvg-name="东森综合台" tvg-logo="东森综合台.png" group-title="🇹🇼台湾频道",东森综合台
+https://stream1.freetv.fun/8140559a5d4385739699c12accb202af6011bbff486d4ceb42f8391a127ad212.ctv
 #EXTINF:-1 tvg-name="东森电影台" tvg-logo="东森电影台.png" group-title="🇹🇼台湾频道",东森电影台
 https://hls-gateway.vpstv.net/streams/476995.m3u8
 #EXTINF:-1 tvg-name="东森电影台" tvg-logo="东森电影台.png" group-title="🇹🇼台湾频道",东森电影台
@@ -1887,6 +1897,8 @@ https://stream1.freetv.fun/dong-sen-dian-ying-8.ctv
 https://stream1.freetv.fun/6b8a5c6e5a8e4e580cdf8d06b234dc16e55d77589ca82e15dfaf2afabaeafbbd.m3u8
 #EXTINF:-1 tvg-name="东森电影台" tvg-logo="东森电影台.png" group-title="🇹🇼台湾频道",东森电影台
 https://stream1.freetv.fun/45a0f78f58b360078097c8797db3cc4f98fc98a5382df97f74b1674c56d2b8aa.m3u8
+#EXTINF:-1 tvg-name="东森电影台" tvg-logo="东森电影台.png" group-title="🇹🇼台湾频道",东森电影台
+https://stream1.freetv.fun/03a525697bd27ffa8edc59291674fd228f88ab708849df54d0faf4dd09e8bd3e.ctv
 #EXTINF:-1 tvg-name="东森财经新闻台" tvg-logo="东森财经新闻台.png" group-title="🇹🇼台湾频道",东森财经新闻台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 #EXTINF:-1 tvg-name="东森财经新闻台" tvg-logo="东森财经新闻台.png" group-title="🇹🇼台湾频道",东森财经新闻台
@@ -1905,6 +1917,8 @@ https://stream1.freetv.fun/13300dfea952c75aa1e5224308a7721600e4dd582257c548582e8
 https://stream1.freetv.fun/7fcd19485260298737eeb56138cc149f0be0cc175bf93721e4074bfb2b63fbe0.m3u8
 #EXTINF:-1 tvg-name="寰宇新闻台" tvg-logo="寰宇新闻台.png" group-title="🇹🇼台湾频道",寰宇新闻台
 https://stream1.freetv.fun/d9e077d94c5ba3a10f9d1a26d5c1f3aa5d4d3f811e1f85120c5b742aaa506157.m3u8
+#EXTINF:-1 tvg-name="寰宇新闻台" tvg-logo="寰宇新闻台.png" group-title="🇹🇼台湾频道",寰宇新闻台
+https://stream1.freetv.fun/cc3ac399d86099e5a3206d38ac3738ad97285b606895947d3786fbcd544081fd.ctv
 #EXTINF:-1 tvg-name="非凡新闻台" tvg-logo="非凡新闻台.png" group-title="🇹🇼台湾频道",非凡新闻台
 https://stream1.freetv.fun/2124ac11b91345b0e1d6d8e1ebccb4bacc91f4110ebf48ccced1b7a9c6221331.m3u8
 #EXTINF:-1 tvg-name="镜新闻" tvg-logo="镜新闻.png" group-title="🇹🇼台湾频道",镜新闻
@@ -1915,10 +1929,6 @@ https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 https://stream1.freetv.fun/f3e4792919e603bd0eb00254eb263931dbab92a22578853745d8dbe977714338.ctv
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="龙华电影.png" group-title="🇹🇼台湾频道",龙华电影
 http://cdn8.163189.xyz/163189/lhdy
-#EXTINF:-1 tvg-name="龙华电影" tvg-logo="龙华电影.png" group-title="🇹🇼台湾频道",龙华电影
-https://cdn8.163189.xyz/live/lhdy/stream.m3u8
-#EXTINF:-1 tvg-name="龙华电影" tvg-logo="龙华电影.png" group-title="🇹🇼台湾频道",龙华电影
-https://stream1.freetv.fun/f3e4792919e603bd0eb00254eb263931dbab92a22578853745d8dbe977714338.ctv
 #EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="龙华戏剧.png" group-title="🇹🇼台湾频道",龙华戏剧
 https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 #EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="龙华戏剧.png" group-title="🇹🇼台湾频道",龙华戏剧
@@ -1927,6 +1937,8 @@ https://stream1.freetv.fun/7571dae9c85b7c954f2abfeac122340ecbdb0b7ab44c3eb785729
 http://cdn8.163189.xyz/163189/lhxj
 #EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="龙华戏剧.png" group-title="🇹🇼台湾频道",龙华戏剧
 https://stream1.freetv.fun/70b5ad6ff59705957267010cfef48103f103a460f450474547b3b76da85d491b.m3u8
+#EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="龙华戏剧.png" group-title="🇹🇼台湾频道",龙华戏剧
+https://stream1.freetv.fun/d166e663af8799c5bf14d4779dee90fc4e870420f00bd0763304a6d60eb5fbe1.ctv
 #EXTINF:-1 tvg-name="龙华偶像" tvg-logo="龙华偶像.png" group-title="🇹🇼台湾频道",龙华偶像
 https://cdn8.163189.xyz/live/lhox/stream.m3u8
 #EXTINF:-1 tvg-name="龙华偶像" tvg-logo="龙华偶像.png" group-title="🇹🇼台湾频道",龙华偶像
@@ -1991,10 +2003,14 @@ http://php.666230.xyz/smt.php?id=videolandmovie
 https://tv.iill.top/x/wldy&token=886bce813f2cd4e37742d034db073fb39288ecfa7b0e43b20307dd9a2b2d0bdc
 #EXTINF:-1 tvg-name="纬来电影台" tvg-logo="纬来电影台.png" group-title="🇹🇼台湾频道",纬来电影台
 https://tv.iill.top/x/wldy
+#EXTINF:-1 tvg-name="纬来电影台" tvg-logo="纬来电影台.png" group-title="🇹🇼台湾频道",纬来电影台
+https://live.catvod.com/catvod_com.php?id=videolandmovie
 #EXTINF:-1 tvg-name="MOMO亲子台" tvg-logo="MOMO亲子台.png" group-title="🇹🇼台湾频道",MOMO亲子台
 https://stream1.freetv.fun/40581a200c60865376b0078f5f84d1b941bc3f30fb0bf15e5ae7ae62429bcef1.m3u8
 #EXTINF:-1 tvg-name="东森幼幼台" tvg-logo="东森幼幼台.png" group-title="🇹🇼台湾频道",东森幼幼台
 https://stream1.freetv.fun/5753ad6d04366e4a447cb5f2d22e116b18494d7ecf375878d0369bd1138b1ab2.ctv
+#EXTINF:-1 tvg-name="东森幼幼台" tvg-logo="东森幼幼台.png" group-title="🇹🇼台湾频道",东森幼幼台
+https://stream1.freetv.fun/a34998dad3417dd7e39b0cefc3a2f05272c3fc07da05ce22bc78b050534422f3.m3u8
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
@@ -2017,14 +2033,6 @@ https://t.freetv.fun/live/chcjia-ting-ying-yuan.m3u8
 http://z.b.bkpcp.top/m.php?id=jtyy
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
-https://stream1.freetv.fun/chcjia-ting-ying-yuan-15.ctv
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
-https://stream1.freetv.fun/chcjia-ting-ying-yuan-9.ctv
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
-https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
-https://t.freetv.fun/live/chcjia-ting-ying-yuan.m3u8
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="第一剧场.png" group-title="🎬电影频道",第一剧场
 http://www.xiaomo520.cn:4020/udp/239.252.219.86:5140
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="第一剧场.png" group-title="🎬电影频道",第一剧场
